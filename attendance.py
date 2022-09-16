@@ -4,7 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
 
-
+print("The Avalable Images are  : ")
 path = 'images'
 images = []
 personNames = []

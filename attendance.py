@@ -4,7 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
 
-print("The Images Are : ")
+print("The Available Images are : ")
 path = 'images'
 images = []
 personNames = []
